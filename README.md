@@ -3,6 +3,8 @@ AIRA-Avian Influenza Risk Assesment Prediction Tool
 
 Web Link-https://daylong-tableful-trophy.ngrok-free.dev/
 
+Examples of complete viral genome are given for testing and can also be downloaded from NCBI and GISAID.
+
 Standalone Tool also available can be on request. 
 
 The code is private and can be accessed by sending request at- 
